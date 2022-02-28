@@ -1,0 +1,19 @@
+segment_sources:
+  P21429BB6:
+    type: origin_type
+    relation: translation
+    language: en
+  P8882F8F8:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4a2b55bb2d244f70acf6c7a2aa9eee88:
+    P21429BB6: ebefb0207b1f40fda89c359bd7ca7426
+    P8882F8F8: 442c5634d4f24776af62341e70e45424
+  69be26b42c2d436dadb5bf7c5efe1142:
+    P21429BB6: 4d6fe7b39ab144fb8c5e791b7db3017f
+    P8882F8F8: 498a5c3cf05241698809190e6d2e2d2c
+  6423682bb8ec4bc48ddb50991ceb3acf:
+    P21429BB6: 99242996d1184781b902e99e77ac8560
+    P8882F8F8: 98c23df902ec4f0394adc725f9efabb8

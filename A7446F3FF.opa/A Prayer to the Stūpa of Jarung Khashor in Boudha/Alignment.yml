@@ -1,0 +1,38 @@
+segment_sources:
+  P21429BB6:
+    type: origin_type
+    relation: translation
+    language: en
+  PE2B071CC:
+    type: origin_type
+    relation: translation
+    language: zh
+  P8882F8F8:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dbd47b81cdfc477389a81fb48b685eef:
+    P21429BB6: 41f927f716124cdea4976d25a73fe45a
+    PE2B071CC: ab4179ca5e3a48999528f8056809909f
+    P8882F8F8: 241dc2550b6e48bebf26021b6d45a078
+  f9ddc3d2618242c488cc57221cd88069:
+    P21429BB6: 8b1f840444034efa9f4711e663e5e058
+    PE2B071CC: 3b26328928a3473d97ad24fcef3f080f
+    P8882F8F8: a5a58e5cd8dc4feaba3e64d939870d72
+  f13dc23fee6c4adc8a10b31152f9b965:
+    P21429BB6: 852dc18cb9c74bd0925b2b28b6c4076c
+    PE2B071CC: 82d877c57aa34bc198b8435445318e89
+    P8882F8F8: f8d55fbd78b044fcb8656ea5573f00f6
+  e666a1dda5714161928fd763c706548e:
+    P21429BB6: 454b2a95230a4121b4cb973f5038d9ca
+    PE2B071CC: 66c7e2ecf4cf4cafaddfd623f684f1a7
+    P8882F8F8: 96cb625897f94ec09535fd830067b996
+  8de0262b717641b9afcebd66a46befc8:
+    P21429BB6: e68e226745c14def9c285963a7d06669
+    PE2B071CC: b7aa11768b3743e69e889d80945d95a3
+    P8882F8F8: f1e7898e16634e7b91dcac0d042af5a6
+  ec3a09d848a64878bfb64c5a2d8a56d6:
+    P21429BB6: 826d89c1b3b145f39664dcb26b938d18
+    PE2B071CC: 709878cf5dda4fc3bc975f4a2cf304fb
+    P8882F8F8: c08276623b2f4a9780c5765739b8c6d0
